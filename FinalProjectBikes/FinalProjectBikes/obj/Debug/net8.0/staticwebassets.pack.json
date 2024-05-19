@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\reyes\\source\\repos\\FinalProjectBikes\\FinalProjectBikes\\FinalProjectBikes\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FinalProjectBikes.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FinalProjectBikes.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\reyes\\source\\repos\\FinalProjectBikes\\FinalProjectBikes\\FinalProjectBikes\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\reyes\\source\\repos\\FinalProjectBikes\\FinalProjectBikes\\FinalProjectBikes\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\reyes\\source\\repos\\FinalProjectBikes\\FinalProjectBikes\\FinalProjectBikes\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\reyes\\source\\repos\\FinalProjectBikes\\FinalProjectBikes\\FinalProjectBikes\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FinalProjectBikes.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FinalProjectBikes.props",
+      "PackagePath": "build\\FinalProjectBikes.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FinalProjectBikes.props",
+      "PackagePath": "buildMultiTargeting\\FinalProjectBikes.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FinalProjectBikes.props",
+      "PackagePath": "buildTransitive\\FinalProjectBikes.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
